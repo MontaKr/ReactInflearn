@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발",
+      "provider": "김영한",
+      "price": 88000,
+      "image": "https://cdn.inflearn.com/public/courses/324119/course_cover/07c45106-3cfa-4dd6-93ed-a6449591831c/%E1%84%80%E1%85%B3%E1%84%85%E1%85%AE%E1%86%B8%205%20%E1%84%87%E1%85%A9%E1%86%A8%E1%84%89%E1%85%A1%204.png",
+      "people" : 12400,
+      "free" : 4
+    },
+    {
+      "id": 2,
+      "name": "프론트엔드 개발환경의 이해와 실습 (webpack, babel, eslint..)",
+      "provider": "김정한",
+      "price": 69300,
+      "image": "https://cdn.inflearn.com/public/courses/324671/course_cover/638eee1a-6381-402d-a17b-3724751414f1/frontend-env-eng.png",
+      "people" : 2000,
+      "free" : 9
+    },
+    {
+      "id": 3,
+      "name": "애플 웹사이트 인터랙션 클론!",
+      "provider": "1분코딩",
+      "price": 88000,
+      "image": "https://cdn.inflearn.com/public/courses/329477/cover/80fb90fb-0212-4eec-8fb0-7875622b198e/329477-eng.png",
+      "people" : 77000,
+      "free" : 12
+    },
+    {
+      "id": 4,
+      "name": "Slack 클론 코딩[백엔드 with NestJS + TypeORM]",
+      "provider": "조현영",
+      "price": 44000,
+      "image": "https://cdn.inflearn.com/public/courses/327193/cover/010c8faf-bfc5-4c6a-9623-a68dc3b38697/327193-eng.png",
+      "people" : 1100,
+      "free" : 2
+    },
+    {
+      "id": 5,
+      "name": "모바일 웹 퍼블리싱 포트폴리오 with Figma",
+      "provider": "코딩웍스(Coding Works)",
+      "price": 92400,
+      "image": "https://cdn.inflearn.com/public/courses/329477/cover/80fb90fb-0212-4eec-8fb0-7875622b198e/329477-eng.png",
+      "free" : 3,
+      "new" : "새강의",
+      "sale" : "할인중"
+    }
+  ]
+}

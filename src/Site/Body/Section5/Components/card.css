@@ -1,0 +1,140 @@
+#CardWrap {
+  width: 231.2px;
+  margin-right: 6px;
+}
+
+#CardBot {
+  padding: 0.5rem 0;
+  background-color: transparent;
+}
+
+#CardBotName {
+  flex: 1 1 auto;
+  font-weight: 700;
+  margin-bottom: 0;
+  line-height: 1.5em;
+  height: 3rem;
+  font-size: 1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  white-space: pre-wrap;
+  cursor: pointer;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#CardBotProvider {
+  color: #7d7d7d;
+    font-size: .9rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    white-space: nowrap;
+    font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;  
+}
+
+#CardBotBPrice {
+  margin-top: 10px;
+  font-weight: 700;
+  color: #175cbe;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#CardBotTag {
+  padding-top: 0.5rem;
+  margin-bottom: -0.5rem;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+#CardBotTagPeople {
+  background-color: hsl(321,63%,90%);
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  align-items: center;
+  border-radius: 4px;
+  color: #454545;
+  display: inline-flex;
+  font-size: .75rem;
+  height: 2em;
+  justify-content: center;
+  line-height: 1.5;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  white-space: nowrap;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#CardBotTagNew {
+  background-color: hsl(182,75%,94%);
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  align-items: center;
+  border-radius: 4px;
+  color: #454545;
+  display: inline-flex;
+  font-size: .75rem;
+  height: 2em;
+  justify-content: center;
+  line-height: 1.5;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  white-space: nowrap;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#CardBotTagSale {
+  background-color: hsl(1,100%,89%);
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem;
+  align-items: center;
+  border-radius: 4px;
+  color: #454545;
+  display: inline-flex;
+  font-size: .75rem;
+  height: 2em;
+  justify-content: center;
+  line-height: 1.5;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  white-space: nowrap;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#HoveringWrap {
+  width: 207.198px;
+  padding:12px;
+  margin-right: 6px;
+  position: absolute;
+  padding: 0.75rem;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: #fff;
+  background-color: rgba(0,0,0,.8);
+}
+
+#HoveringHead {
+  border-radius: 3px;
+  height: 100%;
+  box-shadow: none;
+  background: none;
+  color: #454545;
+  max-width: 100%;
+  position: relative;
+}
+
+#HoveringName {
+  font-size: .95rem;
+  line-height: 1.25;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+  color: #fff;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}

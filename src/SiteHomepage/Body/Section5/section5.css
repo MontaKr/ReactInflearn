@@ -1,0 +1,150 @@
+#Section5 {
+  position: relative;
+  left: 40px;
+}
+
+#Section5Top {
+  margin-bottom: 16px;
+  color: #1e1e1e;
+  box-sizing: border-box;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#Section5Bottom {
+  position: relative;
+  right: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#Section5Card {
+  margin-right: 10px;
+}
+
+#Section5CardImg {
+  width: 231px;
+  height: 150px;
+}
+
+#Section5CardTitle {
+  flex: 1 1 auto;
+  font-weight: 700;
+  margin-bottom: 0;
+  line-height: 24px;
+  height: 3rem;
+  font-size: 16px;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  white-space: pre-wrap;
+  width: 232px;
+  height: 48px;
+}
+
+#Section5CardName {
+  color: #7d7d7d;;
+  box-sizing: content-box;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 14.4px;
+  font-weight: 400;
+}
+
+#Section5CardComment {
+  color: rgb(74, 74, 74);
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  box-sizing: content-box;
+}
+
+#Section5CardPrice {
+  color: #175cbe;
+  font-weight: 700;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 16px;
+}
+
+#Section5CardPeople {
+  display: inline-flex;
+  height: 24px;
+  align-items: center;
+  justify-content: center;
+  background-color: hsl(321,63%,90%);
+  padding-left: 9px;
+  padding-right: 9px;
+  border-radius: 4px;
+  box-sizing: content-box;
+  color: rgb(69, 69, 69);
+  font-weight: 400;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 12px;
+
+}
+
+#Section5Star {
+  color: #fdcc11;;
+}
+
+#Section5CardNew {
+  background-color: hsl(182,75%,94%);
+  padding-left: 9px;
+  padding-right: 9px;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  color: rgb(69, 69, 69);
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+#Section5CardSale {
+  margin-left: 10px;
+  background-color: hsl(1,100%,89%);
+  padding-left: 9px;
+  padding-right: 9px;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
+  color: rgb(69, 69, 69);
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+#Section5CardHover {
+  width: 208px;
+  height: 263.73px;
+  padding: 12px;
+  background-color: rgba(0,0,0,.8);
+}
+
+#Section5CardHover1 {
+  box-sizing: content-box;
+  color: white;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 19px;
+  margin-bottom: 10px;
+  margin-block-end: 4px;
+}
+
+.Section5CardHover2 {
+  box-sizing: content-box;
+  color: rgb(197, 235, 248);
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}

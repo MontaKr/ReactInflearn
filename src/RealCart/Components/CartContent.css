@@ -1,0 +1,62 @@
+#Checkbox {
+  vertical-align: baseline;
+  border: 0;
+    margin: -1px;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;  
+}
+
+#Provider {
+  color: #858a8d;
+  line-height: 1.43;
+    letter-spacing: -.3px;
+    font-size: 14px;
+    font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+    font-weight: 400;
+}
+
+#Infinite {
+  color: #00c471;
+  line-height: 1.43;
+    letter-spacing: -.3px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+#Infinite::before {
+  content: "ㅣ";
+  color: #d5dbe2;
+}
+
+#Xwrap2 {
+  border-color: #fff;
+    color: #fff;
+    background-color: inherit;
+    padding: 0;
+    width: 24px;
+    height: 24px;
+    border: 1px solid;
+    font-weight: 700;
+}
+
+#Price {
+  line-height: 1.5;
+    letter-spacing: -.3px;
+    color: #1b1c1d;
+    line-height: 1.4;
+    letter-spacing: -.3px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#Won {
+  line-height: 1.5;
+    letter-spacing: -.3px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #1b1c1d;
+}

@@ -1,0 +1,95 @@
+#Section7 {
+  background-color: #f9f9f9;
+  padding-top: 48px;
+}
+
+#Section7Top {
+  position: relative;
+  left: 40px;
+}
+
+#Section7TopTop {
+  margin-bottom: 4px;
+  color: #1e1e1e;
+  box-sizing: border-box;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#Section7TopBottom {
+  color: rgb(117, 117, 117);
+  box-sizing: border-box;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+}
+
+#Section7BottomList {
+  width: 1264px;
+  height: 415.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#Section7Bottom {
+  width: 380px;
+  height: 330px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 48px;
+  color: #333;
+  box-sizing: border-box;
+  margin: 2px;
+  flex: 0 0 auto;
+  box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%);
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+#Section7BottomTitle {
+  margin-bottom: 8px;
+  box-sizing: border-box;
+  color: rgb(54, 54, 54);
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+#Section7BottomContent {
+  box-sizing: border-box;
+  color: #757575;
+  width: 284px;
+  height: 72px;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+#Section7BottomGreen {
+  display: flex;
+  line-height: 1;
+  background-color: #1dc078;
+  color: #fff;
+  margin-top: auto;
+  align-items: center;
+  border: unset;
+  font-family: Pretendard,-apple-system,BlinkMacSystemFont,system-ui,Roboto,Helvetica Neue,Segoe UI,Apple SD Gothic Neo,Noto Sans KR,Malgun Gothic,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  padding: 12px 16px;
+  margin-top: 94px;
+  border-radius: 290486px;
+}
+
+#Section7Arrow {
+  margin-left: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
